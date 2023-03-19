@@ -1,0 +1,5 @@
+#Ignorar
+*.bak
+
+Foxuser.dbf
+Foxuser.fpt
